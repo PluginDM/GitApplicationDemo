@@ -14,7 +14,16 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState)
+    {
+        //Comment to merge into master !!!!
+
+        //2ND COMMENT TO MERGE   !!!
+
+        //3RD COMMENT TO MERGE
+
+
+        //MASTER COMMIT
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
